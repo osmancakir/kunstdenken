@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Kunst Denken</title>
+    <link>https://osmancakir.io/kunstdenken/authors/</link>
+      <atom:link href="https://osmancakir.io/kunstdenken/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Osman Cakir</copyright>
+    <image>
+      <url>https://osmancakir.io/kunstdenken/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://osmancakir.io/kunstdenken/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://osmancakir.io/kunstdenken/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://osmancakir.io/kunstdenken/authors/admin/</guid>
+      <description>&lt;p&gt;I completed my undergraduate degree in Economics at Yildiz Technical University in Turkey with the 2nd highest GPA. Then I earned an M.Sc. in Economics Degree from Ludwig Maximilians University of Munich. I am now trying to understand how cultural heritage is shaping the experience of living throughout the history of mankind with the help of data science methods.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

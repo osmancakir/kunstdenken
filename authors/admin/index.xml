@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kunst Denken</title>
+    <link>https://osmancakir.io/kunstdenken/authors/admin/</link>
+      <atom:link href="https://osmancakir.io/kunstdenken/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kunst Denken</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Osman Cakir</copyright>
+    <image>
+      <url>https://osmancakir.io/kunstdenken/img/icon-192.png</url>
+      <title>Kunst Denken</title>
+      <link>https://osmancakir.io/kunstdenken/authors/admin/</link>
+    </image>
+    
+  </channel>
+</rss>
