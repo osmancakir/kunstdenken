@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lenbachhaus | Kunst Denken</title>
+    <link>https://osmancakir.io/kunstdenken/tags/lenbachhaus/</link>
+      <atom:link href="https://osmancakir.io/kunstdenken/tags/lenbachhaus/index.xml" rel="self" type="application/rss+xml" />
+    <description>lenbachhaus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Osman Cakir</copyright><lastBuildDate>Sat, 26 Oct 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://osmancakir.io/kunstdenken/img/icon-192.png</url>
+      <title>lenbachhaus</title>
+      <link>https://osmancakir.io/kunstdenken/tags/lenbachhaus/</link>
+    </image>
+    
+    <item>
+      <title>Lenbachhaus</title>
+      <link>https://osmancakir.io/kunstdenken/courses/kunstdenken/lenbachhaus/</link>
+      <pubDate>Sat, 26 Oct 2019 00:00:00 +0100</pubDate>
+      <guid>https://osmancakir.io/kunstdenken/courses/kunstdenken/lenbachhaus/</guid>
+      <description>&lt;p&gt;[text entries will be uploaded here]&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
